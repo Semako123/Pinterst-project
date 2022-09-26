@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SFProJPDisplay';
+    src: url('SFProJP-Regular.woff2') format('woff2'),
+        url('SFProJP-Regular.woff') format('woff'),
+        url('SFProJP-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

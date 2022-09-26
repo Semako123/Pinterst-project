@@ -1,8 +1,8 @@
-import Homepage from "../views/homepage"
+import Dashboard from "../views/dashboard"
 
 const homeRoute = [{
     path:'/',
-    element:<Homepage/>
+    element:<Dashboard/>
 }]
 
 export default homeRoute
